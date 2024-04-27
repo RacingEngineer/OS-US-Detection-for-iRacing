@@ -1,0 +1,3 @@
+[submodule "anfis-pytorch"]
+	path = anfis_pytorch
+	url = https://github.com/RacingEngineer/anfis-pytorch.git
